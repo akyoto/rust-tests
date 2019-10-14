@@ -8,5 +8,6 @@ edition = "2018"
 opt-level = 3
 debug = false
 lto = true
+panic = "abort"
 debug-assertions = false
 codegen-units = 1
